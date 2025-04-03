@@ -3,7 +3,7 @@
 An interactive 3D model of the site created using 3Dfy and visualised using the QGIS2threejs plugin.
 
 ## Live Demo
-Visit the live demo at: [https://akankshaaaa.github.io/qgiss-viewer/](https://akankshaaaa.github.io/qgis-viewer-latest/)
+Visit the live demo at: [https://akankshaaaa.github.io/qgis-viewer/](https://akankshaaaa.github.io/qgis-viewer-latest/)
 
 ## Scene Controls
 
@@ -43,4 +43,3 @@ Visit the live demo at: [https://akankshaaaa.github.io/qgiss-viewer/](https://ak
 - **W**: Toggle wireframe mode
 
 ---
-*Note: This viewer was created using QGIS2threejs. For more information about the plugin, visit [QGIS2threejs GitHub Repository](https://github.com/minorua/Qgis2threejs)*
