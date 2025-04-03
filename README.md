@@ -29,6 +29,16 @@ Visit the live demo at: [https://akankshaaaa.github.io/qgis-viewer/](https://aka
 - Coordinates of clicked points will be displayed
 - Layer information is available for selected features
 
+### Measurement Tool
+1. Click the "Measure distance" button in the popup panel
+2. Click on your starting point in the scene
+3. Click on subsequent points to measure distances between them
+4. The tool will display:
+   - **Total Distance**: The cumulative length of all segments
+   - **Horizontal Distance**: The planar distance ignoring elevation
+   - **Vertical Distance**: The elevation difference between points
+5. Click the right mouse button or press ESC to finish measuring
+
 ### Camera Controls
 - **Reset View**: Press 'Shift + R' to reset the camera to its initial position
 - **Save View**: Press 'Shift + S' to save the current view as an image
